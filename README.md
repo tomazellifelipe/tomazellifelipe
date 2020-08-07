@@ -1,6 +1,6 @@
 ### Hi there, wealcome to my humble profile 👋
 
-- 🔭 I’m currently working on finding a internship
+- 🔭 I’m currently working on finding an internship
 - 🌱 I’m currently learning everything I can
 - 👯 I’m looking forward to collaborate!
 - 🤔 I’m looking for help with books and tutorials that improve coding
