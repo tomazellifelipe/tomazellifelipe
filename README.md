@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on finding a internship
 - 🌱 I’m currently learning everything I can
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking forward to collaborate!
 - 🤔 I’m looking for help with books and tutorials that improve coding
 - 💬 Ask me about anything
 - 📫 How to reach me: [My linkedin profile](https://www.linkedin.com/in/tomazellifelipe/)
